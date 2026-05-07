@@ -14,7 +14,7 @@ User-Finder — это GUI-приложение на Python для профес�
 
 Пример:
 User - AmSah870;
-name: N/A, login: AmSah870, Repos (reposiroties): 2, followers: 0
+name: N/A, login: AmSah870, Repos (repositories): 2, followers: 0
 
 Основные возможности:
 - ✅ Глобальный поиск: Поиск по логину, полному имени или ключевым словам в био.
